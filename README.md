@@ -6,15 +6,15 @@ Existem três Custom Types: Clientes, Produtos e Pedidos com seus respectivos cu
 
 Os pedidos são um relacionamento entre cliente e produto.
 
-Adicione pedidos, clientes e pedidos através da área admnistrativa do Wordpress.
+Adicione pedidos, clientes e pedidos através da área administrativa do Wordpress.
 
 DEMO:
 
-http://controle-de-estoque.mastropietro.tk
+http://controle-de-estoque.coder.ga
 
 wordpress admin:
 
-http://controle-de-estoque.mastropietro.tk/wp-admin
+http://controle-de-estoque.coder.ga/wp-admin
 
 login: admin
 
