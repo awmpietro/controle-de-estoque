@@ -8,16 +8,16 @@ Os pedidos são um relacionamento entre cliente e produto.
 
 Adicione pedidos, clientes e pedidos através da área administrativa do Wordpress.
 
-DEMO:
+_____
 
-http://controle-de-estoque.coder.ga
+# Demo system for a inventory control.
 
-wordpress admin:
+This is a simple inventory control application created in Wordpress.
 
-http://controle-de-estoque.coder.ga/wp-admin
+There are three Custom Types: Customers, Products and Orders with their respective custom fields.
 
-login: admin
+Orders are a relationship between customer and product.
 
-senha: 1234
+Add orders, customers and orders through the Wordpress administrative area.
 
 
