@@ -1,4 +1,4 @@
-#Sistema demonstrativo de um controle de estoque.
+# Sistema demonstrativo de um controle de estoque.
 
 Esta é uma aplicação simples de controle de estoque criada em Wordpress.
 
